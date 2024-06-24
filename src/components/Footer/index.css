@@ -1,0 +1,12 @@
+.footer {
+  background-color: #cbd5e1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: 10px;
+}
+
+.heading {
+  color: #475569;
+}
